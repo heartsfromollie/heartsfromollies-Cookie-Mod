@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#C#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:wheat"
+        },
+        "C": {
+            "item": "hcm:white_cocoa_beans"
+        }
+    },
+    "result": {
+        "item": "hcm:white_chocolate_cookie",
+        "count": 1
+    }
+}

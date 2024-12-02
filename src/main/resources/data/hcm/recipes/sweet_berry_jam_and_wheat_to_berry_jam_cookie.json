@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        "W#W",
+        "   "
+    ],
+    "key": {
+        "#": {
+            "item": "hcm:berry_jam"
+        },
+        "W": {
+            "item": "minecraft:wheat"
+        }
+    },
+    "result": {
+        "item": "hcm:berry_jam_cookie",
+        "count": 1
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:wheat"
+    },
+    "result": "hcm:pile_of_oats",
+    "count": 2
+}

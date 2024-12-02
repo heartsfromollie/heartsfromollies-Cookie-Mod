@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#C#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:white_dye"
+        },
+        "C": {
+            "item": "hcm:cocoa_powder"
+        }
+    },
+    "result": {
+        "item": "hcm:white_cocoa_powder",
+        "count": 1
+    }
+}

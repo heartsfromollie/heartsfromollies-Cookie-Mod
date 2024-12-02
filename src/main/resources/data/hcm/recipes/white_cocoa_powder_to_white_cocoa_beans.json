@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "###",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "hcm:white_cocoa_powder"
+        }
+    },
+    "result": {
+        "item": "hcm:white_cocoa_beans",
+        "count": 1
+    }
+}

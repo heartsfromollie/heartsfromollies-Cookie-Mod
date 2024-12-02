@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        "#W#",
+        "   "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:yellow_dye"
+        },
+        "W": {
+            "item": "hcm:white_chocolate_cookie"
+        }
+    },
+    "result": {
+        "item":"hcm:yellow_sprinkle_cookie",
+        "count": 1
+    }
+}

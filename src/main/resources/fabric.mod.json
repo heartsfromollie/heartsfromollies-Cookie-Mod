@@ -1,0 +1,39 @@
+{
+	"schemaVersion": 1,
+	"id": "hcm",
+	"version": "${version}",
+	"name": "heartsfromollie's Cookie Mod",
+	"description": "I eated it...",
+	"authors": [
+		"heartsfromollie"
+	],
+	"contact": {
+		"sources": ""
+	},
+	"license": "ARR",
+	"icon": "assets/hcm/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"heartsfromollie.hcm.HeartsfromolliesCookieMod"
+		],
+		"client": [
+			"heartsfromollie.hcm.HeartsfromolliesCookieModClient"
+		],
+		"fabric-datagen": [
+			"heartsfromollie.hcm.HeartsfromolliesCookieModDataGenerator"
+		]
+	},
+	"mixins": [
+		"hcm.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.9",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
